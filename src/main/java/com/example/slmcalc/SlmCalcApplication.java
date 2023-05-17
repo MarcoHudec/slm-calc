@@ -9,6 +9,8 @@ public class SlmCalcApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(SlmCalcApplication.class, args);
+
+
     }
 
 }
