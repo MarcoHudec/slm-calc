@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SlmCalcApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(SlmCalcApplication.class, args);
     }
 
